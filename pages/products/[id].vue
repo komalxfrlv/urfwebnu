@@ -103,7 +103,7 @@ figure {
 /* Product layout - essential flexbox classes */
 .product {
     margin-top: 20px;
-    mar
+    margin-bottom: 20px;
     align-items: center;
 
     section {
