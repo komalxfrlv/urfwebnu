@@ -15,8 +15,8 @@
         <div class="menu">
           <li><a href="/">Главная</a></li>
           <li><a href="/products">Продукция</a></li>
-          <li><a href="/">Услуги</a></li>
-          <li><a href="/">Новости</a></li>
+          <li><a href="/services">Услуги</a></li>
+          <li><a href="/news">Новости</a></li>
           <li><a href="/about">О компании</a></li>
           <li><a href="/contacts">Контакты</a></li>
         </div>
