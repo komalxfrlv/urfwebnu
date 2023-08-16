@@ -66,6 +66,7 @@ const slides = ref(Array.from({ length: 10 }, () => {
     font-weight: 300;
     transition: 400ms;
 }
+
 .more-services-button:hover {
     background: #1660c2;
 }
